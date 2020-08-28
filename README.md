@@ -2,8 +2,8 @@
 
 I was sent a link to an instagram site where I could find what hotdog I was. But on Instagram you cannot search by plaintext comments! Was I really expected to scroll through the entire published body of work to find what hotdog I was?
 
-Instead of wasting my time, I wrote a simple Instagram post indexer with Python and Selenium, then dumped the resulting json data into a searchable site.
-The actual instagram scrape code is built on top of the work done by https://github.com/jnawjux/web_scraping_corgis.
+Instead of wasting my time, I pieced together a simple Instagram post indexer with Python and Selenium, then dumped the resulting json data into a [searchable site](https://search.hotdog.fan/).
+The instagram scrape functionality is built on top of the work done by https://github.com/jnawjux/web_scraping_corgis.
 
 ### Quick Start
 
