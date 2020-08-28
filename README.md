@@ -7,8 +7,9 @@ The actual instagram scrape code is built on top of the work done by https://git
 
 ### Quick Start
 
-Installation: Clone this repo and cd into it. Make sure geckodriver the Firefox Selenium Driver is executable in project path.
-Edit the scrape.py file with your desired account names and post counts.
-Then run `python scrape.py` to run the scraper(s).
-After getting the JSON data you can import into whatever search you want!
+1. Installation: Clone this repo and cd into it. Make sure geckodriver the Firefox Selenium Driver is executable in project path.
+1. Edit the scrape.py file with your desired account names and post counts.
+1. Run `python scrape.py` to run the scraper(s).
+1. After getting the JSON data you can import into whatever search you want!
+
 JSON format = {"link": "<instagram_post_link>", "name": <name_from_comment>}
